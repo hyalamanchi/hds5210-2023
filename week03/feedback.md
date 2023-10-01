@@ -18,7 +18,7 @@ _Was your code readable, efficient, and in line with what we learned in class?_
 ***Nice work on using descriptive variable names***
 * Code written into functions where appropriate?
 * Appropriate comments with your code?
-* Generally easy to follow and undersand?(-1)
+* Generally easy to follow and undersand?
 ***Your code was easy to follow and understandable. Good Work!***
 ***Make sure you keep the folder names properly it should be week03_assignment_1.ipynb***
 
